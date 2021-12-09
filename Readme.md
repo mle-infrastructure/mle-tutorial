@@ -1,15 +1,19 @@
 # A Tutorial Repository for the MLE-Infrastructure 🔺
 <a href="https://github.com/mle-infrastructure/mle-tutorial/blob/main/docs/logo_transparent.png?raw=true"><img src="https://github.com/mle-infrastructure/mle-tutorial/blob/main/docs/logo_transparent.png?raw=true" width="200" align="right" /></a>
 
-This is a tutorial repository on how to get started with the MLE-Infrastructure: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-tutorial/blob/main/tutorial.ipynb)
+This is a tutorial repository on how to get started with the MLE-Infrastructure:
 
-**Add presentation slides and YouTube links later!**
+- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-tutorial/blob/main/tutorial.ipynb)
+- Example template project repository: [`mle-project`](https://github.com/mle-infrastructure/mle-project).
 
-An example of a template project repository can be found in [`mle-project`](https://github.com/mle-infrastructure/mle-project). Furthermore, you can find a set of repository accompanying published papers using the `mle-toolbox` here:
+## Published Papers Using the `mle-toolbox`
 
-- **Add LN2L, LTH DRL & criticality repositories after release.**
+Here is a set of published papers using the `mle-toolbox` to generate their results:
 
-Finally, you can also at the detailed example experiments here:
+- [Vischer*, M. A., Lange*, R. T., & Sprekeler, H. (2021). On Lottery Tickets and Minimal Task Representations in Deep Reinforcement Learning. arXiv preprint arXiv:2105.01648.](https://arxiv.org/pdf/2105.01648.pdf)
+- [Lange, R. T., & Sprekeler, H. (2020). Learning not to learn: Nature versus nurture in silico. Published as a conference paper at AAAI 2022.](https://arxiv.org/pdf/2010.04466.pdf)
+
+## Additional Detailed Example Experiments
 
 |              | Job Types|        Description                                                        |
 | -------------------------- |-------------- | -------------------------------------------------------------- |
@@ -21,3 +25,8 @@ Finally, you can also at the detailed example experiments here:
 | 📓 **[GIF Animations](https://github.com/mle-infrastructure/mle-toolbox/tree/main/notebooks/animate_results.ipynb)** | -     | Walk through a set of animation helpers.      |
 | 📓 **[Testing](https://github.com/mle-infrastructure/mle-toolbox/tree/main/notebooks/hypothesis_testing.ipynb)**     | -     | Perform hypothesis tests on logs.        |
 |📓 **[PBT Evaluation](https://github.com/mle-infrastructure/mle-toolbox/tree/main/notebooks/inspect_pbt.ipynb)** | -     | Inspect the result from PBT.       
+
+## ToDos
+
+- [ ] Add LN2L, LTH DRL & criticality repositories after release.
+- [ ] Add presentation slides and YouTube links later.
