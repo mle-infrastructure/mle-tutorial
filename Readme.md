@@ -3,8 +3,16 @@
 
 This is a tutorial repository on how to get started with the MLE-Infrastructure:
 
-- [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-tutorial/blob/main/tutorial.ipynb)
+- Google Colab walkthrough: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-tutorial/blob/main/tutorial.ipynb)
 - Example template project repository: [`mle-project`](https://github.com/mle-infrastructure/mle-project).
+
+## Individual Package Walkthroughs
+
+1. **[`mle-logging`](https://github.com/mle-infrastructure/mle-logging)**: A Lightweight Logger for ML Experiments 📖 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-logging/blob/main/examples/getting_started.ipynb)
+2. **[`mle-scheduler`](https://github.com/mle-infrastructure/mle-scheduler)**: A Lightweight Cluster/Cloud VM Job Management Tool 🚀 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-scheduler/blob/main/examples/getting_started.ipynb)
+3. **[`mle-hyperopt`](https://github.com/mle-infrastructure/mle-hyperopt)**: A Lightweight Hyperparameter Optimization Tool 🚂 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-hyperopt/blob/main/examples/getting_started.ipynb)
+4. **[`mle-monitor`](https://github.com/mle-infrastructure/mle-monitor)**: A Lightweight Experiment & Resource Monitoring Tool 📺 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-monitor/blob/main/examples/getting_started.ipynb)
+5. **[`mle-toolbox`](https://github.com/mle-infrastructure/mle-toolbox)**: A Lightweight Tool to Manage Distributed ML Experiments 🛠 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mle-infrastructure/mle-tutorial/blob/main/tutorial.ipynb)
 
 ## Published Papers Using the `mle-toolbox`
 
@@ -30,3 +38,4 @@ Here is a set of published papers using the `mle-toolbox` to generate their resu
 
 - [ ] Add LN2L, LTH DRL & criticality repositories after release.
 - [ ] Add presentation slides and YouTube links later.
+- [ ] Add blog post links using the toolbox?
